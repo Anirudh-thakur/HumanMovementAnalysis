@@ -1,0 +1,2 @@
+https://www.computervision.zone/lessons/code-files-15/
+source env/bin/activate
